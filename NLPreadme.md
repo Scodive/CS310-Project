@@ -50,7 +50,8 @@ AUC-ROC: 0.9998
 
 train_bilingual_model.py
 
-![8277af6fe5951a750fdab1c9d8408fe2](/Users/sco/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/nt_qq_8739efe20973d0d4555d126a9dfd1fe9/nt_data/Pic/2025-05/Ori/8277af6fe5951a750fdab1c9d8408fe2.png)
+<img width="686" alt="WechatIMG25374" src="https://github.com/user-attachments/assets/89e56e08-53af-4947-bd75-7d8996cf7cf5" />
+
 
 检测到 8 个GPU。使用 nn.DataParallel 进行训练。
 开始训练...
