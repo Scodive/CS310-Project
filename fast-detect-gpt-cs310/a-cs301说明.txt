@@ -1,0 +1,4 @@
+model_download.py用来提前下载模型：tiiuae/falcon-7b和tiiuae/falcon-7b-instruct，当前是tiiuae/falcon-7b
+data_work.py用来预处理数据集，修改main函数的参数
+model_test.py评估模型数据并输出图片
+图片保存在scripts/detectgpt_results，cn和en两个文件夹是我手动建的，要是直接运行两次后一次应该会覆盖前一次
